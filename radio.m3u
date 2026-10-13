@@ -120,3 +120,13 @@ https://internetstreamer.lafayette.edu/
 https://maggie.torontocast.com:2020/stream/reggaechillcafe
 #EXTINF:-1 group-title="Other",Surf Rock Radio
 https://radio.dripfeed.net/listen/surfrockradio/radio.mp3
+#EXTINF:-1 group-title="Other",KEXP
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1 group-title="Other",Pure Ibiza Radio
+https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio
+#EXTINF:-1 group-title="Other",Shady Pines Radio
+https://shady-pines-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="Other",bigFM LoFi Focus
+https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser
+#EXTINF:-1 group-title="Other",Yacht Rock Radio
+https://digitalaudiobroadcasting.net:1045/stream
