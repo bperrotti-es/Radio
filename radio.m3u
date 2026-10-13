@@ -1,146 +1,146 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Radio Paradise",Main Mix
+#EXTINF:-1 tvg-logo="https://vsh-smedia.radioparadise.com/uploads/RP_Logo_Flat_HCR_Green_1_18a033c355.png" group-title="Radio Paradise",Main Mix
 https://stream.radioparadise.com/aac-128
-#EXTINF:-1 group-title="Radio Paradise",Mellow Mix
+#EXTINF:-1 tvg-logo="https://vsh-smedia.radioparadise.com/uploads/RP_Logo_Flat_HCR_Green_1_18a033c355.png" group-title="Radio Paradise",Mellow Mix
 https://stream.radioparadise.com/mellow-128
-#EXTINF:-1 group-title="Radio Paradise",Rock Mix
+#EXTINF:-1 tvg-logo="https://vsh-smedia.radioparadise.com/uploads/RP_Logo_Flat_HCR_Green_1_18a033c355.png" group-title="Radio Paradise",Rock Mix
 https://stream.radioparadise.com/rock-128
-#EXTINF:-1 group-title="Radio Paradise",Global Mix
+#EXTINF:-1 tvg-logo="https://vsh-smedia.radioparadise.com/uploads/RP_Logo_Flat_HCR_Green_1_18a033c355.png" group-title="Radio Paradise",Global Mix
 https://stream.radioparadise.com/global-128
-#EXTINF:-1 group-title="Radio Paradise",Beyond
+#EXTINF:-1 tvg-logo="https://vsh-smedia.radioparadise.com/uploads/RP_Logo_Flat_HCR_Green_1_18a033c355.png" group-title="Radio Paradise",Beyond
 https://stream.radioparadise.com/beyond-128
 
-#EXTINF:-1 group-title="SomaFM",Groove Salad
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/groovesalad256.png?v=1780812670" group-title="SomaFM",Groove Salad
 https://ice5.somafm.com/groovesalad-128-aac
-#EXTINF:-1 group-title="SomaFM",Drone Zone
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/dronezone256.png?v=1299123385" group-title="SomaFM",Drone Zone
 https://ice5.somafm.com/dronezone-128-aac
-#EXTINF:-1 group-title="SomaFM",Space Station Soma
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/spacestation256.png?v=1299123676" group-title="SomaFM",Space Station Soma
 https://ice5.somafm.com/spacestation-128-aac
-#EXTINF:-1 group-title="SomaFM",Deep Space One
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/deepspaceone256.png?v=1378071300" group-title="SomaFM",Deep Space One
 https://ice5.somafm.com/deepspaceone-128-aac
-#EXTINF:-1 group-title="SomaFM",Folk Forward
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/folkfwd256.png?v=1358300374" group-title="SomaFM",Folk Forward
 https://ice5.somafm.com/folkfwd-128-aac
-#EXTINF:-1 group-title="SomaFM",Covers
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/covers256.png?v=1299185814" group-title="SomaFM",Covers
 https://ice5.somafm.com/covers-128-aac
-#EXTINF:-1 group-title="SomaFM",Beat Blender
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/beatblender256.png?v=1299122861" group-title="SomaFM",Beat Blender
 https://ice6.somafm.com/beatblender-128-aac
-#EXTINF:-1 group-title="SomaFM",Black Rock FM
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/brfm256.jpg?v=1342301643" group-title="SomaFM",Black Rock FM
 https://ice6.somafm.com/brfm-128-aac
-#EXTINF:-1 group-title="SomaFM",Boot Liquor
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/bootliquor256.png?v=1299122827" group-title="SomaFM",Boot Liquor
 https://ice6.somafm.com/bootliquor-128-aac
-#EXTINF:-1 group-title="SomaFM",Bossa Beyond
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/bossa256.jpg?v=1781039370" group-title="SomaFM",Bossa Beyond
 https://ice6.somafm.com/bossa-128-aac
-#EXTINF:-1 group-title="SomaFM",Chillits Radio
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/chillits256.png?v=1772560615" group-title="SomaFM",Chillits Radio
 https://ice6.somafm.com/chillits-128-aac
-#EXTINF:-1 group-title="SomaFM",Christmas Lounge
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/christmas256.png?v=1342304089" group-title="SomaFM",Christmas Lounge
 https://ice6.somafm.com/christmas-128-aac
-#EXTINF:-1 group-title="SomaFM",Christmas Rocks!
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/xmasrocks256.png?v=1351794707" group-title="SomaFM",Christmas Rocks!
 https://ice6.somafm.com/xmasrocks-128-aac
-#EXTINF:-1 group-title="SomaFM",cliqhop idm
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/cliqhop256.png?v=1491429881" group-title="SomaFM",cliqhop idm
 https://ice6.somafm.com/cliqhop-128-aac
-#EXTINF:-1 group-title="SomaFM",DEF CON Radio
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/defcon256.png?v=1781243225" group-title="SomaFM",DEF CON Radio
 https://ice6.somafm.com/defcon-128-aac
-#EXTINF:-1 group-title="SomaFM",Department Store Christmas
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/deptstore256.png?v=1576736359" group-title="SomaFM",Department Store Christmas
 https://ice6.somafm.com/deptstore-128-aac
-#EXTINF:-1 group-title="SomaFM",Digitalis
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/digitalis256.png?v=1299123280" group-title="SomaFM",Digitalis
 https://ice6.somafm.com/digitalis-128-aac
-#EXTINF:-1 group-title="SomaFM",Doomed
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/doomed256.png?v=1299123314" group-title="SomaFM",Doomed
 https://ice6.somafm.com/doomed-128-aac
-#EXTINF:-1 group-title="SomaFM",Drone Zone 2
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/dz2256.png?v=1776988036" group-title="SomaFM",Drone Zone 2
 https://ice6.somafm.com/dz2-128-aac
-#EXTINF:-1 group-title="SomaFM",Dub Step Beyond
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/dubstep256.png?v=1338924204" group-title="SomaFM",Dub Step Beyond
 https://ice6.somafm.com/dubstep-128-aac
-#EXTINF:-1 group-title="SomaFM",Fluid
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/fluid256.jpg?v=1436822911" group-title="SomaFM",Fluid
 https://ice6.somafm.com/fluid-128-aac
-#EXTINF:-1 group-title="SomaFM",Groove Salad 2
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/groovesalad2256.png?v=1779933335" group-title="SomaFM",Groove Salad 2
 https://ice6.somafm.com/groovesalad2-128-aac
-#EXTINF:-1 group-title="SomaFM",Groove Salad Classic
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/gsclassic256.jpg?v=1747344773" group-title="SomaFM",Groove Salad Classic
 https://ice6.somafm.com/gsclassic-128-aac
-#EXTINF:-1 group-title="SomaFM",Heavyweight Reggae
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/reggae256.png?v=1579290261" group-title="SomaFM",Heavyweight Reggae
 https://ice6.somafm.com/reggae-128-aac
-#EXTINF:-1 group-title="SomaFM",Illinois Street Lounge
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/illstreet256.jpg?v=1747344745" group-title="SomaFM",Illinois Street Lounge
 https://ice6.somafm.com/illstreet-128-aac
-#EXTINF:-1 group-title="SomaFM",Indie Pop Rocks!
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/indiepop256.png?v=1299188003" group-title="SomaFM",Indie Pop Rocks!
 https://ice6.somafm.com/indiepop-128-aac
-#EXTINF:-1 group-title="SomaFM",Jolly Ol' Soul
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/jollysoul256.png?v=1417386956" group-title="SomaFM",Jolly Ol' Soul
 https://ice6.somafm.com/jollysoul-128-aac
-#EXTINF:-1 group-title="SomaFM",Left Coast 70s
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/seventies256.jpg?v=1435992064" group-title="SomaFM",Left Coast 70s
 https://ice6.somafm.com/seventies-128-aac
-#EXTINF:-1 group-title="SomaFM",Lush
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/lush256.png?v=1439940390" group-title="SomaFM",Lush
 https://ice6.somafm.com/lush-128-aac
-#EXTINF:-1 group-title="SomaFM",Metal Detector
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/metal256.png?v=1438371170" group-title="SomaFM",Metal Detector
 https://ice6.somafm.com/metal-128-aac
-#EXTINF:-1 group-title="SomaFM",Mission Control
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/missioncontrol256.png?v=1342304313" group-title="SomaFM",Mission Control
 https://ice6.somafm.com/missioncontrol-128-aac
-#EXTINF:-1 group-title="SomaFM",n5MD Radio
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/n5md256.png?v=1605058454" group-title="SomaFM",n5MD Radio
 https://ice6.somafm.com/n5md-128-aac
-#EXTINF:-1 group-title="SomaFM",PopTron
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/poptron256.png?v=1299124081" group-title="SomaFM",PopTron
 https://ice6.somafm.com/poptron-128-aac
-#EXTINF:-1 group-title="SomaFM",Secret Agent
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/secretagent256.png?v=1299123636" group-title="SomaFM",Secret Agent
 https://ice6.somafm.com/secretagent-128-aac
-#EXTINF:-1 group-title="SomaFM",Seven Inch Soul
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/7soul256.png?v=1396144572" group-title="SomaFM",Seven Inch Soul
 https://ice6.somafm.com/7soul-128-aac
-#EXTINF:-1 group-title="SomaFM",SF 10-33
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/sf1033256.png?v=1335919756" group-title="SomaFM",SF 10-33
 https://ice6.somafm.com/sf1033-128-aac
-#EXTINF:-1 group-title="SomaFM",SF in SF
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/sfinsf256.jpg?v=1674967917" group-title="SomaFM",SF in SF
 https://ice6.somafm.com/sfinsf-128-aac
-#EXTINF:-1 group-title="SomaFM",SF Police Scanner
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/scanner256.png?v=1674935912" group-title="SomaFM",SF Police Scanner
 https://ice6.somafm.com/scanner-128-aac
-#EXTINF:-1 group-title="SomaFM",SomaFM Live
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/live256.png?v=1782343535" group-title="SomaFM",SomaFM Live
 https://ice6.somafm.com/live-128-aac
-#EXTINF:-1 group-title="SomaFM",SomaFM Specials
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/specials256.png?v=1674947103" group-title="SomaFM",SomaFM Specials
 https://ice6.somafm.com/specials-128-aac
-#EXTINF:-1 group-title="SomaFM",Sonic Universe
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/sonicuniverse256.png?v=1299123729" group-title="SomaFM",Sonic Universe
 https://ice6.somafm.com/sonicuniverse-128-aac
-#EXTINF:-1 group-title="SomaFM",Suburbs of Goa
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/suburbsofgoa256.png?v=1342303770" group-title="SomaFM",Suburbs of Goa
 https://ice6.somafm.com/suburbsofgoa-128-aac
-#EXTINF:-1 group-title="SomaFM",Synphaera Radio
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/synphaera256.jpg?v=1611903685" group-title="SomaFM",Synphaera Radio
 https://ice6.somafm.com/synphaera-128-aac
-#EXTINF:-1 group-title="SomaFM",The Dark Zone
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/darkzone256.jpg?v=1674958814" group-title="SomaFM",The Dark Zone
 https://ice6.somafm.com/darkzone-128-aac
-#EXTINF:-1 group-title="SomaFM",The In-Sound
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/insound256.jpg?v=1781039370" group-title="SomaFM",The In-Sound
 https://ice6.somafm.com/insound-128-aac
-#EXTINF:-1 group-title="SomaFM",The Trip
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/thetrip256.jpg?v=1447535313" group-title="SomaFM",The Trip
 https://ice6.somafm.com/thetrip-128-aac
-#EXTINF:-1 group-title="SomaFM",ThistleRadio
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/thistle256.jpg?v=1433008752" group-title="SomaFM",ThistleRadio
 https://ice6.somafm.com/thistle-128-aac
-#EXTINF:-1 group-title="SomaFM",Tiki Time
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/tikitime256.jpg?v=1695348830" group-title="SomaFM",Tiki Time
 https://ice6.somafm.com/tikitime-128-aac
-#EXTINF:-1 group-title="SomaFM",Underground 80s
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/u80s256.png?v=1418528434" group-title="SomaFM",Underground 80s
 https://ice6.somafm.com/u80s-128-aac
-#EXTINF:-1 group-title="SomaFM",Vaporwaves
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/vaporwaves256.png?v=1601767702" group-title="SomaFM",Vaporwaves
 https://ice6.somafm.com/vaporwaves-128-aac
-#EXTINF:-1 group-title="SomaFM",Xmas in Frisko
+#EXTINF:-1 tvg-logo="https://api.somafm.com/logos/256/xmasinfrisko256.jpg?v=1444422142" group-title="SomaFM",Xmas in Frisko
 https://ice6.somafm.com/xmasinfrisko-128-aac
 
-#EXTINF:-1 group-title="Other",WJRH
+#EXTINF:-1 tvg-logo="https://www.wjrh.org/assets/images/wjrh_logo.svg" group-title="Other",WJRH
 https://internetstreamer.lafayette.edu/
-#EXTINF:-1 group-title="Other",Reggae Chill Cafe
+#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/reggaechillcafe-3539/logos/512x512.png" group-title="Other",Reggae Chill Cafe
 https://maggie.torontocast.com:2020/stream/reggaechillcafe
-#EXTINF:-1 group-title="Other",Surf Rock Radio
+#EXTINF:-1 tvg-logo="https://www.surfrockradio.com/images/SRR-fb-banner5c200.png" group-title="Other",Surf Rock Radio
 https://radio.dripfeed.net/listen/surfrockradio/radio.mp3
-#EXTINF:-1 group-title="Other",KEXP
+#EXTINF:-1 tvg-logo="https://www.kexp.org/static/assets/img/logo-header.svg" group-title="Other",KEXP
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
-#EXTINF:-1 group-title="Other",Pure Ibiza Radio
+#EXTINF:-1 tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2026/04/logo-pure.png" group-title="Other",Pure Ibiza Radio
 https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio
-#EXTINF:-1 group-title="Other",Shady Pines Radio
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b2d09c_9b59c4e9a1654e13a11ffbbc984e8386%7Emv2.jpg/v1/fill/w_512%2Ch_512%2Clg_1%2Cusm_0.66_1.00_0.01/b2d09c_9b59c4e9a1654e13a11ffbbc984e8386%7Emv2.jpg" group-title="Other",Shady Pines Radio
 https://shady-pines-radio.radiocult.fm/stream
-#EXTINF:-1 group-title="Other",bigFM LoFi Focus
+#EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2022-12/LoFi%20Focus_1600x1600Px.jpg" group-title="Other",bigFM LoFi Focus
 https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser
-#EXTINF:-1 group-title="Other",Yacht Rock Radio
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/69/logos/711887f1-d88c-445b-a746-4ae0ddbf19fe.png.w256.webp" group-title="Other",Yacht Rock Radio
 https://digitalaudiobroadcasting.net:1045/stream
 
-#EXTINF:-1 group-title="Naim",Naim Radio
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="Naim",Naim Radio
 https://mscp3.live-streams.nl:8362/high.aac
-#EXTINF:-1 group-title="Naim",Naim Jazz
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="Naim",Naim Jazz
 https://mscp3.live-streams.nl:8342/jazz-high.aac
-#EXTINF:-1 group-title="Naim",Naim Classical
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="Naim",Naim Classical
 https://mscp3.live-streams.nl:8252/class-high.aac
 
-#EXTINF:-1 group-title="Linn",Linn Radio
+#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="Linn",Linn Radio
 http://radio.linn.co.uk:8003/autodj
-#EXTINF:-1 group-title="Linn",Linn Jazz
+#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="Linn",Linn Jazz
 http://radio.linn.co.uk:8000/autodj
-#EXTINF:-1 group-title="Linn",Linn Classical
+#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="Linn",Linn Classical
 http://radio.linn.co.uk:8004/autodj
