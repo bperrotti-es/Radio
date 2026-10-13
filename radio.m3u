@@ -130,3 +130,10 @@ https://shady-pines-radio.radiocult.fm/stream
 https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser
 #EXTINF:-1 group-title="Other",Yacht Rock Radio
 https://digitalaudiobroadcasting.net:1045/stream
+
+#EXTINF:-1 group-title="Naim",Naim Radio
+https://mscp3.live-streams.nl:8362/high.aac
+#EXTINF:-1 group-title="Naim",Naim Jazz
+https://mscp3.live-streams.nl:8342/jazz-high.aac
+#EXTINF:-1 group-title="Naim",Naim Classical
+https://mscp3.live-streams.nl:8252/class-high.aac
