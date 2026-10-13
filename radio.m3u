@@ -113,3 +113,10 @@ https://ice6.somafm.com/u80s-128-aac
 https://ice6.somafm.com/vaporwaves-128-aac
 #EXTINF:-1 group-title="SomaFM",Xmas in Frisko
 https://ice6.somafm.com/xmasinfrisko-128-aac
+
+#EXTINF:-1 group-title="Other",WJRH
+https://internetstreamer.lafayette.edu/
+#EXTINF:-1 group-title="Other",Reggae Chill Cafe
+https://maggie.torontocast.com:2020/stream/reggaechillcafe
+#EXTINF:-1 group-title="Other",Surf Rock Radio
+https://radio.dripfeed.net/listen/surfrockradio/radio.mp3
