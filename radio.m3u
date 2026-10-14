@@ -129,7 +129,7 @@ https://shady-pines-radio.radiocult.fm/stream
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2022-12/LoFi%20Focus_1600x1600Px.jpg" group-title="Other",bigFM LoFi Focus
 https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser
 #EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/69/logos/711887f1-d88c-445b-a746-4ae0ddbf19fe.png.w256.webp" group-title="Other",Yacht Rock Radio
-https://digitalaudiobroadcasting.net:1045/stream
+https://digitalaudiabroadcasting.net:1045/stream
 
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="Naim",Naim Radio
 https://mscp3.live-streams.nl:8362/high.aac
@@ -144,3 +144,20 @@ http://radio.linn.co.uk:8003/autodj
 http://radio.linn.co.uk:8000/autodj
 #EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="Linn",Linn Classical
 http://radio.linn.co.uk:8004/autodj
+
+#EXTINF:-1 tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/listing-square" group-title="Suggested",KCRW Eclectic24
+https://streams.kcrw.com/e24_mp3
+#EXTINF:-1 tvg-logo="https://worldwidefm.net/favicon.svg" group-title="Suggested",Worldwide FM
+https://worldwidefm.out.airtime.pro/worldwidefm_b
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/external/favicons/fip/favicon.png" group-title="Suggested",FIP
+https://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1 tvg-logo="https://www.jazz24.org/apple-touch-icon.png" group-title="Suggested",Jazz24
+https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=jazz24.org
+#EXTINF:-1 tvg-logo="https://www.radioswissjazz.ch/social-media/rsj-web.png" group-title="Suggested",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-logo="https://www.dublab.com/assets/icons/apple-touch-icon.png" group-title="Suggested",dublab
+http://dublab.out.airtime.pro:8000/dublab_a
+#EXTINF:-1 tvg-logo="https://www.nts.live/css/images/nts-socials-img.png" group-title="Suggested",NTS Radio 1
+http://stream-relay-geo.ntslive.net/stream
+#EXTINF:-1 tvg-logo="https://www.nts.live/css/images/nts-socials-img.png" group-title="Suggested",NTS Radio 2
+http://stream-relay-geo.ntslive.net/stream2
