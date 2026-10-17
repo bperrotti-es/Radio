@@ -170,3 +170,8 @@ http://stream.bff.fm/1/BFF.fm.mp3
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiofreebrooklyn.org/wp-content/uploads/2021/09/RFB2_sq_500.png" group-title="Eclectic",RFB2
 http://159.203.70.187:9736/stream
+
+#EXTINF:-1 tvg-logo="https://surfroots.com/cdn/shop/files/surf_rootssquaremicflag900x900_1200x1200.png?v=1614296903" group-title="Reggae Rock",Surf Roots Radio
+https://streaming.live365.com/a47555
+#EXTINF:-1 tvg-logo="https://image.live365.com/download/eda5cc98-6fa8-456a-9928-8efd3548aa72.png/400/image.webp" group-title="Reggae Rock",716 Reggae Rock
+https://streaming.live365.com/a96716
