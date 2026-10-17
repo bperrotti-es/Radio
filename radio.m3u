@@ -161,3 +161,12 @@ http://dublab.out.airtime.pro:8000/dublab_a
 http://stream-relay-geo.ntslive.net/stream
 #EXTINF:-1 tvg-logo="https://www.nts.live/css/images/nts-socials-img.png" group-title="Suggested",NTS Radio 2
 http://stream-relay-geo.ntslive.net/stream2
+
+#EXTINF:-1 tvg-logo="https://wfmu.org/favicon.ico" group-title="Eclectic",WFMU
+http://stream0.wfmu.org/freeform-128k.mp3
+#EXTINF:-1 tvg-logo="https://aw.bff.fm/assets/favicons/favicon-512/ca78c274e716c0cac348f165adf6bc2540aab50f.png" group-title="Eclectic",BFF.fm
+http://stream.bff.fm/1/BFF.fm.mp3
+#EXTINF:-1 tvg-logo="https://www.thelotradio.com/images/og-default.jpg" group-title="Eclectic",The Lot Radio
+https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiofreebrooklyn.org/wp-content/uploads/2021/09/RFB2_sq_500.png" group-title="Eclectic",RFB2
+http://159.203.70.187:9736/stream
